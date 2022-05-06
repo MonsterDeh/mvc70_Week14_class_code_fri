@@ -1,0 +1,16 @@
+{
+    "name": "mohammad/mvc70",
+    "authors": [
+        {
+            "name": "Mohammad Shabani",
+            "email": "mohamad.darghah@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "App\\": "app/",
+        "Core\\": "core"
+        }
+    }
+}
